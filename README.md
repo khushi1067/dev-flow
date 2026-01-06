@@ -6,10 +6,10 @@
 ## Screenshots
 
 ### Daily Log Form
-![devflow screenshot](./screenshots/form.png)
+![devflow screenshot](../screenshots/form.png)
 
 ### Saved Entries View
-![Saved Entries](./screenshots/entries.png)
+![Saved Entries](../screenshots/entries.png)
 
 
 ## Project structure
