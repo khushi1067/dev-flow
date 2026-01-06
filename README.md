@@ -6,11 +6,10 @@
 ## Screenshots
 
 ### Daily Log Form
-![devflow screenshot](../screenshots/form.png)
+![devflow screenshot] <img width="919" height="704" alt="entries" src="https://github.com/user-attachments/assets/dad812d8-b7ee-4c1e-92ea-60093d14d01d" />
 
-### Saved Entries View
-![Saved Entries](../screenshots/entries.png)
 
+### Saved Entries View <img width="919" height="704" alt="entries" src="https://github.com/user-attachments/assets/d4f62bcc-95ec-4d9c-86f5-65a50c2eda9d" />
 
 ## Project structure
 
